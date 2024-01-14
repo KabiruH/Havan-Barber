@@ -107,3 +107,5 @@ app.post("/schedules/:username", (req, res) => {
         });
     }
     return res.json({ error_message: "User doesn't exist" });
+
+})
