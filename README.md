@@ -1,7 +1,7 @@
-### Barber Shop Scheduling App
+# Barber Shop Scheduling App
 
 Welcome to the Barber Shop Scheduling App! This application allows users to create accounts, log in, and schedule appointments at a barber shop.
-# Table of Contents
+## Table of Contents
 
     Features
     Getting Started
@@ -13,7 +13,7 @@ Welcome to the Barber Shop Scheduling App! This application allows users to crea
     Contributing
     License
 
-# Features
+## Features
 
     User account creation and authentication.
     Appointment booking and management.
@@ -22,14 +22,14 @@ Welcome to the Barber Shop Scheduling App! This application allows users to crea
     Frontend developed using React.
 
 ## Getting Started
-# Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
 
     Node.js and npm
     
 
-# Installation
+## Installation
 
     Clone the repository:
 
